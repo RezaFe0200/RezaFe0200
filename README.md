@@ -21,5 +21,5 @@
 - [x] TryHackMe SOC Level 1 Path
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/rezafebrian02
+- LinkedIn: https://www.linkedin.com/rezafebrian02
 - Email: rezafebrian3441@gmail.com
